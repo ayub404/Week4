@@ -1,3 +1,0 @@
-s = "abcabcbb"
-
-len(s)
