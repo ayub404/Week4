@@ -3,7 +3,8 @@ print('=====================================')
 
 def calculate_item_total(quantity, unit_price):
 
-    return quantity * unit_price
+    total = quantity * unit_price
+    return total
 
 
 def apply_bulk_discount(total, quantity):
